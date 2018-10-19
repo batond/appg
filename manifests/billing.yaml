@@ -9,6 +9,7 @@ metadata:
   name: billing
   labels:
     app: billing
+    privacy: Confidential
 spec:
   ports:
   - port: 9080
